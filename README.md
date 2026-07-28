@@ -168,5 +168,5 @@ Python projects focused on:
 ## Contact
 - **Email:** [alimaps799@gmail.com](mailto:alimaps799@gmail.com)
 - **LinkedIn:** [Mohammed Muneef](https://www.linkedin.com/in/mohammed-muneef-2649b3425)
-- **GitHub:** [alimaps](https://github.com/alimaps)
+- **GitHub:** [alimaps799-bit](https://github.com/alimaps799-bit)
 - **Location:** Yemen | Available for Remote Work
